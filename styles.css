@@ -1,1 +1,17 @@
 /*  your css code here. If applicable */
+div {
+	width: 200px;
+	height: 200px;
+	border: 2px solid black;
+	background-color: lightblue;
+	position:absolute;
+    top: 50%;
+    left: 50%;
+	
+	
+}
+
+p{
+  padding: 70px 0px;
+  text-align: center;
+}
